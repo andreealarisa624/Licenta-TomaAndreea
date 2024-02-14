@@ -1,7 +1,7 @@
 # Licenta-TomaAndreea
-1. Se instalează Rider
-2. Se instalează Webstorm
-3. Se instalează ultima versiune de typescript
-4. Pe frontend, se deschide in webstorm proiectul.
-5. Pe backend, se deschide in Rider fisierul TangoMalena-BackEnd.sln
-6. Se ruleaza
+1. Primul pas il reprezinta instalarea Rider
+2. Al doilea pas il reprezinta instalarea Webstorm
+3. Apoi se instaleaza ultima versiune de typescript
+4. Pentru partea de frontend, se lanseaza in webstorm proiectul
+5. Pentru partea de backend, se lanseaza in Rider codul specific
+6. Se ruleaza aplicatia
